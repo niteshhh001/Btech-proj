@@ -1,0 +1,8 @@
+# Ignore environment and system folders
+.conda/
+.ipynb_checkpoints/
+
+
+# Ignore model or binary artifacts
+*.ann
+
